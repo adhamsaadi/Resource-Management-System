@@ -1,2 +1,2 @@
 # Resource-Management-System
-Human and natural resource management system project written in java on netbeans ide
+Human and natural resource management system source code written in java on netbeans ide
